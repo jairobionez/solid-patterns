@@ -1,0 +1,3 @@
+## OCP — Open-Closed Principle (Princípio do Aberto/Fechado)
+
+No princípio do Open-Closed Principle diz que “as entidades de software (classes, módulos, funções etc.) devem ser abertas para ampliação, mas fechadas para modificação”. De forma mais detalhada, diz que podemos estender o comportamento de uma classe, quando for necessário, por meio de herança, interface e composição, mas não podemos permitir a abertura dessa classe para fazer pequenas modificações.
