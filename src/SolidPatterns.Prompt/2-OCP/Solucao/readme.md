@@ -6,6 +6,6 @@ Com essa modificação, foram criadas outras duas classes, uma para **conta de c
 
 Com isso, conseguimos enxugar a classe **DebitoConta** e fazer com que ela não precise conhecer o comportamento das diversas contas. Ou seja, vamos FECHAR as classes DebitoContaCorrente e DebitoPoupança para mudanças e caso outras regras surjam para serem utilizadas na classe DebitoConta.
 
-## Links útils
+## Links úteis
 
  - [Abstract Classes](https://www.macoratti.net/12/06/c_caip1.htm)

@@ -9,7 +9,7 @@ Para algumas validações da própria classe de **CLIENTE**, foram criados algun
 
 Foi criado dois **serviços**, uma específico para o **envio de e-mail** e outro para **orquestrar o fluxo de criação do cliente** onde o mesmo e responsável por fazer a chamada do repositório, do serviço de e-mail e demais validações que a entidade possui.
 
-## Links útils
+## Links úteis
 
  - [Repository Pattern & Unit of Work](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application)
  - [Objetos de valor](https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/implement-value-objects)

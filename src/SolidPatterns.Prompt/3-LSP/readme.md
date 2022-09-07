@@ -1,0 +1,3 @@
+## LSP — Liskov Substitution Principle
+
+No princípio da Substituição de Liskov (LSP) diz que “Os subtipos devem ser substituíveis pelos seus tipos base”, e que as classes/tipos base podem ser substituídas por qualquer uma das suas subclasses, ponderando sobre os cuidados para usar a herança no seu projeto de software. Mesmo a herança sendo um mecanismo poderoso, ela deve ser utilizada de forma contextualizada e moderada, evitando os casos de classes serem estendidas apenas por possuírem algo em comum. Esse princípio foi descrito pela pesquisadora Barbara Liskov, em seu artigo de 1988, em que ela explica que, antes de optar pela herança, precisamos pensar nas pré-condições e pós-condições da sua classe.
