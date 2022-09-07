@@ -1,0 +1,3 @@
+## SCP - Single Responsibility Principle (Princípio da Responsabilidade Única)
+
+Esse primeiro princípio diz que “uma classe deve ter apenas um motivo para mudar”, ou seja, deve ter uma única responsabilidade. Basicamente, esse princípio trata especificamente a coesão. A coesão é definida como a afinidade funcional dos elementos de um módulo. Se refere ao relacionamento que os membros desse módulo possuem, se possuem uma relação mais direta e importante. Dessa forma, quanto mais bem definido o que sua classe faz, mais coesa ela é.

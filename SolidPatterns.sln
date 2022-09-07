@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPatterns.Prompt", "src\SolidPatterns.Prompt\SolidPatterns.Prompt.csproj", "{DDB9F26F-2A61-436A-82CB-B4EE95E34344}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB9F26F-2A61-436A-82CB-B4EE95E34344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB9F26F-2A61-436A-82CB-B4EE95E34344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB9F26F-2A61-436A-82CB-B4EE95E34344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB9F26F-2A61-436A-82CB-B4EE95E34344}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69BAB9FD-DCE5-4BF1-910C-722665D59542}
+	EndGlobalSection
+EndGlobal
